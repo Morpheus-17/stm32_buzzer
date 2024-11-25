@@ -4,6 +4,7 @@
 - Function      : TIMER1, USART2  
 
 # [Contents]
-1. Control PWM Timer Frequency
+1. pwm timer frequency
+2. Twelve-tone technique
    
 
